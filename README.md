@@ -28,3 +28,4 @@ for Pictures, the default file extensions are:
 
 
 
+
