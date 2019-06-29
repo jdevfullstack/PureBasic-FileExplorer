@@ -2,7 +2,7 @@
 This is a file explorer written in PureBasic.
 This is the very first release and there are too many things you can add here.
 
-![GUI](Screenshot (305).png)
+![GUI](sampleGUI.png)
 
 Why do we need a file explorer?
 When you want to write an operating system, this is a must.
