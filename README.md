@@ -12,7 +12,7 @@ the computer is the one assigned to sort files according to format
 and this is due to the algorithm included in the source code.
 
 When you already compiled the source code,
-you run EXPLORER_LISTVIEW_V1.exe and
+you run the executable file and
 you will be seeing these things:
 
 for Documents, the default file extensions are:  
