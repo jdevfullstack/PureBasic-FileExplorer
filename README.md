@@ -1,4 +1,4 @@
-# PureBasic FileExplorer
+# PureBasic File Explorer
 This is a file explorer written in PureBasic.
 This is the very first release and there are too many things you can add here.
 
