@@ -34,5 +34,3 @@ If ExamineDirectory(#Directory1, Directory$, "*.docx")
   Wend
   FinishDirectory(#Directory1)
 EndIf
-; IDE Options = PureBasic 5.00 (Windows - x64)
-; EnableXP
