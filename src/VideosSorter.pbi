@@ -34,5 +34,3 @@ If ExamineDirectory(#Directory2, Directory$, "*.mkv")
   Wend
   FinishDirectory(#Directory2)
 EndIf
-; IDE Options = PureBasic 5.00 (Windows - x64)
-; EnableXP
