@@ -34,5 +34,3 @@ If ExamineDirectory(#Directory3, Directory$, "*.jpeg")
   Wend
   FinishDirectory(#Directory3)
 EndIf
-; IDE Options = PureBasic 5.00 (Windows - x64)
-; EnableXP
