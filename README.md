@@ -46,6 +46,7 @@ abilities or the latest best practices in the field.
 
 Feel free to explore the project and its code. However, be aware that it might 
 use outdated libraries or patterns and is not intended for production use in its current state.
+
 ## Compiling
 To compile/run, just use the PureBasic IDE, that's very fast and
 simple for simple programs like this.
