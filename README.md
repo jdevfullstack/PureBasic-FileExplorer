@@ -55,4 +55,4 @@ simple for simple programs like this.
 MIT - The permissive license
 
 ## More PureBasic Projects
-check the main Page -> [PureBasic](https://github.com/jdevfullstack/PureBasic)
+check the Main Page -> [PureBasic](https://github.com/jdevfullstack/PureBasic)
