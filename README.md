@@ -56,7 +56,7 @@ simple for simple programs like this.
 2. Then, made changes, and create a pull request. I'm happy you contribute to my repo!
 
 ## License
-MIT- The permissive license
+MIT - The permissive license
 
 ## More PureBasic Projects
 check the main Page -> [PureBasic](https://github.com/jdevfullstack/PureBasic)
