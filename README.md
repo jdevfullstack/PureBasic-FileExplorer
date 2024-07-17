@@ -51,10 +51,6 @@ use outdated libraries or patterns and is not intended for production use in its
 To compile/run, just use the PureBasic IDE, that's very fast and
 simple for simple programs like this.
 
-## Contributing
-1. Fork it!
-2. Then, made changes, and create a pull request. I'm happy you contribute to my repo!
-
 ## License
 MIT - The permissive license
 
