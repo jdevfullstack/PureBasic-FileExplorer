@@ -7,6 +7,18 @@ This is the very first release and there are too many things you can add here.
 
 ![GUI](resources/screenshot1.png)
 
+
+## Disclaimer
+Please note that this project is presented as a showcase of my work during a 
+specific period. It represents a snapshot of my skills and accomplishments 
+at that time. As such, this project is no longer actively maintained or updated. 
+It is kept public for demonstration purposes and may not reflect my current 
+abilities or the latest best practices in the field.
+
+However, feel free to learn from this archived project, 
+preserved as it was during that specific period !
+
+## Why PureBasic 
 Why do we need a file explorer?
 When you want to write an operating system, this is a must.
 
@@ -31,28 +43,18 @@ for Pictures, the default file extensions are:
 .png  
 .jpg   
 
-## The Good Old Days
-PureBasic was my first ever programming language, so it reminds me of the good old days. 
-Before PureBasic, I first learned Excel formulas, which really captured my interest. 
-The very first time I encountered Excel was in college,
-and it was the IF function presented by the professor that really caught my attention.
-
-## Disclaimer
-Please note that this project is presented as a showcase of my work during a 
-specific period. It represents a snapshot of my skills and accomplishments 
-at that time. As such, this project is no longer actively maintained or updated. 
-It is kept public for demonstration purposes and may not reflect my current 
-abilities or the latest best practices in the field.
-
-However, feel free to learn from this archived project, 
-preserved as it was during that specific period !
-
 ## Compiling
 To compile/run, just use the PureBasic IDE, that's very fast and
 simple for simple programs like this.
 
 ## License
 MIT - The permissive license
+
+## The Good Old Days
+PureBasic was my first ever programming language, so it reminds me of the good old days. 
+Before PureBasic, I first learned Excel formulas, which really captured my interest. 
+The very first time I encountered Excel was in college,
+and it was the IF function presented by the professor that really caught my attention.
 
 ## More PureBasic Projects
 for more PureBasic discussion and other details, 
