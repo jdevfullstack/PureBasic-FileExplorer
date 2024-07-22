@@ -59,3 +59,9 @@ and it was the IF function presented by the professor that really caught my atte
 ## More PureBasic Projects
 for more PureBasic discussion and other details, 
 check the Main Page -> [PureBasic](https://github.com/jdevfullstack/PureBasic)
+
+## More Of My Content
+- [jdevfullstack Profile](https://github.com/jdevfullstack)
+- [jdevfullstack Repos](https://github.com/jdevfullstack?tab=repositories)
+- [jdevfullstack Projects](https://github.com/jdevfullstack-projects)
+- [jdevfullstack Tutorials](https://github.com/jdevfullstack-tutorials)
